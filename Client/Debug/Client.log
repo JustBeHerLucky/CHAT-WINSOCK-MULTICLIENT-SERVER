@@ -1,0 +1,93 @@
+﻿  stdafx.cpp
+  Application.cpp
+  Buffer.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Buffer.cpp(36,24): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Buffer.cpp(46,26): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Buffer.cpp(72,23): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Buffer.cpp(83,26): warning C4018: '>=': signed/unsigned mismatch
+  OpenGLRenderer.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,65): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,51): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,37): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,23): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(48,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(49,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(50,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(51,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,29): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,24): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,19): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,14): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shader.cpp
+  Socket.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Socket.cpp(23,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'WCHAR *'
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Socket.cpp(23,10): message : consider using '%ls' in the format string
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Socket.cpp(23,10): message : consider using '%lls' in the format string
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Socket.cpp(23,10): message : consider using '%Ls' in the format string
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\Socket.cpp(23,10): message : consider using '%ws' in the format string
+  SystemUI.cpp
+  Windows.cpp
+  imguiMesh.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(108,12): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(109,12): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  CLSocket.cpp
+  ChatDialog.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Client\ChatDialog.cpp(44,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Client.cpp
+  ClientApp.cpp
+  GroupChat.cpp
+  main.cpp
+  Generating Code...
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Client\ClientApp.cpp(537): warning C4715: 'ClientApp::SendFile': not all control paths return a value
+  Client.vcxproj -> C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Debug\Client.exe

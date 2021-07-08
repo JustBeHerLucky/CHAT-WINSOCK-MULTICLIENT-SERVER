@@ -1,0 +1,105 @@
+﻿  stdafx.cpp
+  Application.cpp
+  Buffer.cpp
+  imguiMesh.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(84,80): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(91,80): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(108,12): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\imguiMesh.cpp(109,12): warning C4244: '=': conversion from 'float' to 'GLint', possible loss of data
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  OpenGLRenderer.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,65): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,51): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,37): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(24,23): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(48,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(49,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(50,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(51,47): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,29): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,24): warning C4244: 'argument': conversion from 'T' to 'GLsizei', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,19): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Shared\OpenGLRenderer.cpp(110,14): warning C4244: 'argument': conversion from 'T' to 'GLint', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Shader.cpp
+  Socket.cpp
+  SystemUI.cpp
+  Windows.cpp
+  Client.cpp
+  GroupChatSV.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(51,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(52,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(54,32): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(55,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(57,33): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\GroupChatSV.cpp(58,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Server.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(308,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(309,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(403,49): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(416,34): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(417,54): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(485,54): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(499,58): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(501,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\Server.cpp(512,47): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ServerApp.cpp
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(33,47): error C2065: 'GWL_WNDPROC': undeclared identifier
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(34,22): error C2065: 'GWL_WNDPROC': undeclared identifier
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(34,52): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(34,52): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(35,25): error C2065: 'GWL_USERDATA': undeclared identifier
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(35,46): warning C4311: 'type cast': pointer truncation from 'Server *' to 'LONG'
+C:\Users\nqt01\Desktop\ChatApp-master\ChatApp-master\Server\ServerApp.cpp(35,46): warning C4302: 'type cast': truncation from 'Server *' to 'LONG'
+  SVSocket.cpp
+  Generating Code...
